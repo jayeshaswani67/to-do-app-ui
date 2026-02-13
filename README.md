@@ -1,2 +1,18 @@
-# to-do-app-ui
-A responsive notebook-inspired To-Do application built using HTML, CSS, and JavaScript. It supports dynamic task management, completion tracking, deletion, and LocalStorage-based persistence, showcasing practical front-end development skills.
+
+# To-Do App UI
+
+A responsive To-Do app UI built using HTML, CSS, and JavaScript.
+
+## Features
+- Add tasks
+- Delete tasks
+- Responsive design
+- Clean UI
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## Author
+Jayesh
